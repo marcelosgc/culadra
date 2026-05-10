@@ -10,20 +10,19 @@
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor url="https://www.yourcompany.com">Marcelo Carvalho</vendor>
+    <vendor url="https://github.com/marcelosgc/culadra">Marcelo Carvalho</vendor>
 
     <idea-version since-build="252.25557"/>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-description -->
     <description><![CDATA[
-        Theme based on Dracula-Alucard white theme.
+       This is a theme inspired on Dracula Theme. All credits go to the creators that inspired me to create this theme.
     ]]></description>
 
-    <!-- Short summary of new features and bugfixes in the latest plugin version.
-         Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
+    <!-- This is a theme inspired on Dracula Theme. All credits go to the creators that inspired me to create this theme.  <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        Initial release of the theme.
+        Initial release of the theme with a white teme.
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
