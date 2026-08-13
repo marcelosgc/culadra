@@ -63,7 +63,7 @@
                "Button.borderColor":  "BackgroundDarker",
                "Button.default.startBackground":  "Purple",
                "Button.default.endBackground":  "Purple",
-                   "Button.default.foreground":  "Foreground",
+               "Button.default.foreground":  "BackgroundLighter",
                "Label.foreground":  "Foreground",
                "Label.disabledForeground":  "Comment",
                    "List.background":  "BackgroundDark",
