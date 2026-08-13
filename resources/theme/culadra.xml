@@ -28,7 +28,7 @@
         <option name="FILESTATUS_modifiedOutside" value="036A96" />
         <option name="GUTTER_BACKGROUND" value="F5F5F5" />
         <option name="INDENT_GUIDE" value="CFCFDE" />
-        <option name="LINE_NUMBERS_COLOR" value="CFCFDE" />
+        <option name="LINE_NUMBERS_COLOR" value="B8B8B8" />
         <option name="MODIFIED_LINES_COLOR" value="036A96" />
         <option name="RIGHT_MARGIN_COLOR" value="635D97" />
         <option name="SELECTED_INDENT_GUIDE" value="635D97" />
@@ -340,7 +340,7 @@
         </option>
         <option name="DEFAULT_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="14710A" />
+                <option name="FOREGROUND" value="1F1F1F" />
             </value>
         </option>
         <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -361,7 +361,8 @@
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
             <value>
-                <option name="FOREGROUND" value="1F1F1F" />
+                <option name="FOREGROUND" value="A34D14" />
+                <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_METHOD">
@@ -388,7 +389,7 @@
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="1F1F1F" />
+                <option name="FOREGROUND" value="CB3A2A" />
             </value>
         </option>
         <option name="DEFAULT_METADATA">
@@ -440,7 +441,8 @@
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
-                <option name="FOREGROUND" value="644AC9" />
+                <option name="FOREGROUND" value="1F1F1F" />
+                <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="DEFAULT_STRING">
